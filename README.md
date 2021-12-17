@@ -1,2 +1,2 @@
 
-![Calculator](https://user-images.githubusercontent.com/96263634/146588330-9072fdfb-c6f5-4407-971d-f666a703d65b.jpg)
+![Calculator](https://user-images.githubusercontent.com/96263634/146588520-17ea906a-bb0d-4e46-a34a-8dc55265c7c0.jpg)
