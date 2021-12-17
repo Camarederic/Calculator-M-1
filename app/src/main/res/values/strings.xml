@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculator M-1</string>
+    <string name="image_sign">Calculator M-1</string>
+    <string name="image_screen">Screen</string>
+    <string name="image_ramka">Ramka</string>
+    <string name="image_zero">0</string>
+    <string name="image_two_zero">00</string>
+    <string name="image_dot">.</string>
+    <string name="image_equal">=</string>
+    <string name="image_one">1</string>
+    <string name="image_two">2</string>
+    <string name="image_clear">C</string>
+    <string name="image_multiply">×</string>
+    <string name="image_add_sub">-</string>
+    <string name="image_eight">8</string>
+    <string name="image_seven">7</string>
+    <string name="image_minus">-</string>
+    <string name="image_six">6</string>
+    <string name="image_five">5</string>
+    <string name="image_four">4</string>
+    <string name="image_percent">%</string>
+    <string name="image_plus">+</string>
+    <string name="image_nine">9</string>
+    <string name="image_division">÷</string>
+    <string name="image_delete">Delete</string>
+    <string name="image_three">3</string>
+    <string name="image_left_bracket">(</string>
+    <string name="image_right_bracket">)</string>
+    <string name="edit_text_display">0</string>
+</resources>
