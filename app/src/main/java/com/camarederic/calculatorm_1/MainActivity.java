@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
             buttonDivision, buttonPercent, buttonAddSub, buttonClear, buttonDelete,
             buttonLeftBracket, buttonRightBracket;
 
+    boolean dot = true;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
