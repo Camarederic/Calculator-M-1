@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/MyApplication/Calculator M-1/app/src/main/res/layout/activity_main.xml" value="0.258008658008658" />
+        <entry key="..\:/Users/ASUS/MyApplication/Calculator M-1/app/src/main/res/layout-large/activity_main.xml" value="0.23125" />
+        <entry key="..\:/Users/ASUS/MyApplication/Calculator M-1/app/src/main/res/layout-normal/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/MyApplication/Calculator M-1/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/ASUS/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
