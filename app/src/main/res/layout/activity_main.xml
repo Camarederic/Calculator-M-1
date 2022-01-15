@@ -14,7 +14,8 @@
         app:layout_constraintBottom_toTopOf="@+id/constraintLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.29000002">
 
         <ImageView
             android:id="@+id/imageView"
@@ -30,15 +31,15 @@
         <ImageView
             android:id="@+id/imageView26"
             android:layout_width="180dp"
-            android:layout_height="50dp"
-            android:layout_marginBottom="11dp"
+            android:layout_height="14dp"
+            android:layout_marginTop="2dp"
             android:contentDescription="@string/image_sign"
-            app:layout_constraintBottom_toTopOf="@+id/imageView"
+            app:layout_constraintBottom_toTopOf="@+id/imageView25"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.12"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.32999998"
+            app:layout_constraintVertical_bias="0.22000003"
             app:srcCompat="@drawable/m_1"
             tools:ignore="ImageContrastCheck" />
 
